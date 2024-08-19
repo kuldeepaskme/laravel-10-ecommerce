@@ -88,7 +88,7 @@
 </div>
 
 @endsection
-
+@push('styles')
 <style>
     .breadcrumbs{
         list-style: none;
@@ -124,7 +124,7 @@
         padding-right:8px;
     }
   </style> 
-
+@endpush
 @push('scripts')
 <script src="/vendor/laravel-filemanager/js/stand-alone-button.js"></script>
 <script>
