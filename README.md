@@ -1,7 +1,3 @@
-# Laravel with Firestore: A Comprehensive Guide
-
-This repository contains the source code for how to build a fully functional CRUD (Create, Read, Update, Delete) application using Laravel, a powerful PHP framework, and Firebase Firestore, Google's flexible, scalable database service.
-
 ## Getting Started
 
 To get started with the project, follow these steps:
